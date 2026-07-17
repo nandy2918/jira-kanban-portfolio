@@ -9,3 +9,4 @@ https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/Screens
 
 https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/Screenshot%202026-07-17%20152903.png
 
+https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/kanban%20board
