@@ -1,12 +1,27 @@
-# jira-kanban-portfolio
+#jira-kanban-portfolio
+
 Business Analyst portfolio project — Kanban workflow managed in Jira
 
-Tool : Jira — Kanban board, backlog management, work item tracking
- 
-Role : Business Analyst — responsible for creating and organizing the backlog, assigning priority levels, tracking task status through the Kanban board, and monitoring project progress via the summary dashboard.
+Tool: Jira — Kanban board, backlog management, work item tracking
 
-https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/Screenshot%202026-07-17%20152616.png
+Role: Business Analyst — responsible for creating and organizing the backlog, assigning priority levels, tracking task status through the Kanban board, and monitoring project progress via the summary dashboard.
 
-https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/Screenshot%202026-07-17%20152903.png
+##Backlog
+| ID | Task | Priority | Status |
+|----|------|----------|--------|
+| KAN-1 | Gather the existing data | Medium | Done |
+| KAN-2 | Remove the duplicates | Medium | Done |
+| KAN-3 | Meeting with clients and team members | Medium | To Do |
 
-https://github.com/nandy2918/jira-kanban-portfolio/blob/main/screenshots/Screenshot%202026-07-17%20152943.png
+![Backlog List View](screenshots/backlog-list-view.png)
+
+##Kanban Board
+![Kanban Board](screenshots/kanbanboard.png)
+
+##Project Summary Dashboard
+![Project Summary](screenshots/project-summary-dashboard.png)
+
+## What This Demonstrates
+- Structuring a backlog with clear, actionable work items
+- Tracking progress through a defined Kanban workflow
+- Using dashboard reporting to monitor project health
