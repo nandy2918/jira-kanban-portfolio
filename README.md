@@ -16,7 +16,7 @@ Role: Business Analyst — responsible for creating and organizing the backlog, 
 ![Backlog List View](screenshots/backlog-list-view.png)
 
 ##Kanban Board
-![Kanban Board](screenshots/kanbanboard.png)
+![Kanban Board](https://github.com/nandy2918/jira-kanban-portfolio/tree/main/kanban)
 
 ##Project Summary Dashboard
 ![Project Summary](screenshots/project-summary-dashboard.png)
